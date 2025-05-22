@@ -3,7 +3,6 @@ PFont miFuente;
 
 int numPantalla;
 int contadorTiempo;
-int tamañoTexto;
 
 void setup() {
   size (640, 480);
